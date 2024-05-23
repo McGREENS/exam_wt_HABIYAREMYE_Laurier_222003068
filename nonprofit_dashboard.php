@@ -1,4 +1,13 @@
 <?php
+
+/**
+*Created by: LAURIER HABIYAREYE
+* Registration Number: 222003068
+*School Department: Year 2 in BIT (Business Information Technology)
+*Project: FUNDRAISING PLATFORM FOR NON PROFITS ORGANIZATIONS
+ 
+ */
+
 session_start();
 // Check if user is logged in, if not redirect to login page
 if (!isset($_SESSION["email"])) {
