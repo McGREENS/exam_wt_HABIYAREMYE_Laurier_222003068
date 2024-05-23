@@ -1,0 +1,2 @@
+# exam_wt_HABIYAREMYE_Laurier_222003068
+Fundraising platform for nonprofits
