@@ -1,4 +1,12 @@
 <?php
+
+/**
+*Created by: LAURIER HABIYAREYE
+* Registration Number: 222003068
+*School Department: Year 2 in BIT (Business Information Technology)
+*Project: FUNDRAISING PLATFORM FOR NON PROFITS ORGANIZATIONS
+ 
+ */
 require_once 'config.php'; // Ensure this file contains your database connection setup
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
