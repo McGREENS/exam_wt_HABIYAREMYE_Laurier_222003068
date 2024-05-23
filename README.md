@@ -79,6 +79,11 @@ My database connection file `config.php` file is correctly set up with your MySQ
 - `events`
 - `impact_reports`
 - `nonprofits`
+-  `admin`
+-  `categories`
+-  `comments`
+-  `messages`
+-  `newsletter`
 
 ## Project Structure
 fundraising_platform_for_nonprofits/
