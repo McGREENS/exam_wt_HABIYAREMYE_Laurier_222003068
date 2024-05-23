@@ -1,4 +1,12 @@
 <?php
+
+/**
+*Created by: LAURIER HABIYAREYE
+* Registration Number: 222003068
+*School Department: Year 2 in BIT (Business Information Technology)
+*Project: FUNDRAISING PLATFORM FOR NON PROFITS ORGANIZATIONS
+ 
+ */
 require_once 'config.php'; 
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
