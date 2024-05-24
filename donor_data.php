@@ -1,12 +1,12 @@
 
 <?php
-/*
-    
- <!-- Laurier HABIYAREMYE        REG_NO:  222003068   -->
- <!-- AMBULANCE BOOKING SYSTEM  to fit the better appearence was summarized to be ABS Lines -->
-
-
-*/
+/**
+*Created by: LAURIER HABIYAREYE
+* Registration Number: 222003068
+*School Department: Year 2 in BIT (Business Information Technology)
+*Project: FUNDRAISING PLATFORM FOR NON PROFITS ORGANIZATIONS
+ 
+ */
 session_start();
 // Include database connection file
 require_once "config.php";
