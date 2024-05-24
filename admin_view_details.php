@@ -1,10 +1,10 @@
 <?php
 
 /**
-*Created by: Laurier HABIYAREMYE 
-* Registration Number: 222003068 
+*Created by: LAURIER HABIYAREYE
+* Registration Number: 222003068
 *School Department: Year 2 in BIT (Business Information Technology)
-
+*Project: FUNDRAISING PLATFORM FOR NON PROFITS ORGANIZATIONS
  
  */
 
