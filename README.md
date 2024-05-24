@@ -27,7 +27,7 @@ The Fundraising Platform for Nonprofits is a web application designed to help no
 - Administrative interface for managing users and campaigns
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript and SCSS
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap and SCSS
 - **Backend**: PHP
 - **Database**: MySQL
 
